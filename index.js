@@ -1,3 +1,5 @@
+/* awesome books function */
+
 const findHight = () => {
   if (window.innerHeight < document.body.scrollHeight) {
     document.querySelector('footer').style.position = 'relative';
