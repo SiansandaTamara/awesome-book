@@ -13,7 +13,7 @@
 - Figma Tempalate
 ## Live Demo (if available)
 
-[Live Demo Link](
+[Live Demo Link](https://siansandatamara.github.io/awesome-book/
 )
 
 ## Getting Started
@@ -30,16 +30,15 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
 
 ```bash
-git clone https://github.com/SiansandaTamara/Portfolio
-cd Portfolio
-```
+git clone// https://siansandatamara.github.io/awesome-book/
+cd awsomebook
 
 ### Usage
 
 Open the index file of the project in the browser to see the project
 
 ## Authors
-   ** gyrill muchemi**
+   ** cyril muchemi**
 👤 **Tamara Siansanda**
 
 - GitHub: [@SiansandaTamara](https://github.com/SiansandaTamara)
