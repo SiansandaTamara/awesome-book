@@ -7,9 +7,7 @@ screenshot
 Built With
 HTML
 java script
-Live Demo (if available)
-Live Demo Link
-Live Demo Link
+[Live Demo link]( https://github.com/SiansandaTamara/awsomebook)
 Getting Started
 To get a local copy up and running follow these simple example steps.
 
